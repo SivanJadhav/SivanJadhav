@@ -3,8 +3,8 @@
 <!--
 **SivanJadhav/SivanJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-Here are some ideas to get you started:
-
+<br>
+<hr>
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
 <hr>
 - 🌱 I’m currently learning C (from CS50).
