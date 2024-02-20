@@ -3,7 +3,6 @@
 <!--
 **SivanJadhav/SivanJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-<br>
 <hr>
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
 <hr>
