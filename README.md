@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you wish.
 <br>
 <hr>
-- 📫 How to reach me: sivanjaadhav+gith@gmail.com
+- 📫 How to reach me: <a> <href mailto = sivanjaadhav+gith@gmail.com
+target = "_blank"
+title = "My E-Mail"
+E-Mail>
+</a>
 <br>
 <hr>
 - 🗿 Pronouns: He/Him
 <br>
 <hr>
 - ⚡ Fun fact: I am learning this from Harvard's CS50 Course.
+<br>
+<hr>
