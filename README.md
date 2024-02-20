@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
-<br>
 <hr>
 - 🌱 I’m currently learning C (from CS50).
 <br>
