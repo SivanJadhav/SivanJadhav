@@ -17,13 +17,13 @@ int main(void)
 // Printing Function
 void staircase(int n)
 {
-	for (int i = 0, spaces = n - 1, hs = 1; i < n; i++, spaces--, hs++)
+	for (int i = 0; i < n; i++)
 	{
-		for (int j = 0; j < spaces; j++)
+		for (int j = n - 1 - i; j >= 1; j--)
 		{
 			printf(" "); // Printing Spaces
 		}
-		for (int j = 0; j < hs; j++)
+		for (int j = 1; j < i + 2; j++)
 		{
 			printf("#"); // Printing Hashes
 		}

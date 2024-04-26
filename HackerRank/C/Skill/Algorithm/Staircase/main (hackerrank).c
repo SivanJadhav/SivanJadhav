@@ -23,20 +23,18 @@ int parse_int(char*);
 
 void staircase(int n) 
 {
-    for (int i = 0, spaces = n - 1, hs = 1; i < n; i++)
-    {
-        for (int k = 0; k < spaces; k++)
-        {
-            printf(" "); // Printing Spaces
-        }
-        for (int j = 0; j < hs; j++)
-        {
-            printf("#"); // Printing Hashes
-        }
-        printf("\n");
-        spaces--; // Decrementing Number Of Spaces
-        hs++; // Incrementing Number Of Hashes
-    }
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = n - 1 - i; j >= 1; j--)
+		{
+			printf(" "); // Printing Spaces
+		}
+		for (int j = 1; j < i + 2; j++)
+		{
+			printf("#"); // Printing Hashes
+		}
+		printf("\n");
+	}
 }
 
 int main()
