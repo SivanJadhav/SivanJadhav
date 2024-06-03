@@ -18,11 +18,7 @@
 - 💬 Ask me about anything you wish.
 <br>
 <hr>
-- 📫 How to reach me: <a> <href mailto = sivanjaadhav+gith@gmail.com
-target = "_blank"
-title = "My E-Mail"
-E-Mail>
-</a>
+- 📫 How to reach me: <a mailto="sivanjaadhav@gmail.com">sivanjaadhav@gmail.com</a>
 <br>
 <hr>
 - 🗿 Pronouns: He/Him
