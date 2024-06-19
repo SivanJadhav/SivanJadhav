@@ -6,10 +6,10 @@
 <hr>
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
 <hr>
-- 🌱 I’m currently learning C (from CS50).
+- 🌱 I’m currently learning CS, from CS50.
 <br>
 <hr>
-- 👯 I’m looking to collaborate on beginner friendly projects in C.
+- 👯 I’m looking to collaborate on beginner friendly projects in C, Python, SQL, HTML, CSS, Flask (Python Microframework).
 <br>
 <hr>
 - 🤔 I’m looking for help with nothing currently.
@@ -18,7 +18,7 @@
 - 💬 Ask me about anything you wish.
 <br>
 <hr>
-- 📫 How to reach me: <a mailto="sivanjaadhav@gmail.com">sivanjaadhav@gmail.com</a>
+- 📫 How to reach me: <a mailto="sivanjaadhav+github@gmail.com">sivanjaadhav@gmail.com</a>
 <br>
 <hr>
 - 🗿 Pronouns: He/Him
