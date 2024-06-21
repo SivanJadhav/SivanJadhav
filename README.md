@@ -6,7 +6,7 @@
 <hr>
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
 <hr>
-- 🌱 I’m currently learning CS, from CS50.
+- 🌱 I’m currently learning CS, from [CS50's Course's](https://cs50.harvard.edu/).
 <br>
 <hr>
 - 👯 I’m looking to collaborate on beginner friendly projects in C, Python, SQL, HTML, CSS, Flask (Python Microframework).
