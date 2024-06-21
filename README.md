@@ -18,12 +18,12 @@
 - 💬 Ask me about anything you wish.
 <br>
 <hr>
-- 📫 How to reach me: <a mailto href="sivanjaadhav+github@gmail.com">sivanjaadhav@gmail.com</a>
+- 📫 How to reach me: <a mailto href="sivanjaadhav+github@gmail.com">G-Mail</a>
 <br>
 <hr>
 - 🗿 Pronouns: He/Him
 <br>
 <hr>
-- ⚡ Fun fact: I am learning this from Harvard's CS50 Course.
+- ⚡ Fun fact: I am learning this from <a href="https://cs50.harvard.edu/">Harvard's CS50's Course's</a>.
 <br>
 <hr>
