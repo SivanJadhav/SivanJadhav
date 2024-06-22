@@ -27,3 +27,6 @@
 - ⚡ Fun fact: I am learning this from <a href="https://cs50.harvard.edu/">Harvard's CS50's Course's</a>.
 <br>
 <hr>
+- ✍🏻 I do (Dev) Blogging at <a href="https://sivanjadhav.hashnode.dev/">OneTale</a> with <a href="https://hashnode.com/">Hashnode</a>.
+<br>
+<hr>
