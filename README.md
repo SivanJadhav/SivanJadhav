@@ -21,7 +21,7 @@
 - 📫 How to reach me: <a mailto href="sivanjaadhav+github@gmail.com">G-Mail</a>
 <br>
 <hr>
-- 🗿 Pronouns: He/Him
+- 🗿 Pronouns: He, Him, and His
 <br>
 <hr>
 - ⚡ Fun fact: I am learning this from <a href="https://cs50.harvard.edu/">Harvard's CS50's Course's</a>.
