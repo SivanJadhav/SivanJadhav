@@ -6,10 +6,10 @@
 <hr>
 - 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
 <hr>
-- 🌱 I’m currently learning CS, from <a href="https://cs50.harvard.edu/">CS50's Course's</a>.
+- 🌱 I’m currently learning Rust (after suffering in C to appreciate Rust). I plan to go low-level to do something in Embedded Engineering and system-level things.
 <br>
 <hr>
-- 👯 I’m looking to collaborate on beginner friendly projects in C, Python, SQL, HTML, CSS, Flask (Python Microframework).
+- 👯 I want to collaborate on beginner-friendly projects in C or Rust.
 <br>
 <hr>
 - 🤔 I’m looking for help with nothing currently.
